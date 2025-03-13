@@ -41,6 +41,7 @@ Each model was tested on individual feature sets and multi-form data combination
 * Developing adaptive models for different sample rates and audio qualities.
 
 ## Paper and Citation
+[Go to paper](materials/Future-Proofing&#32;Multilingual&#32;Fake&#32;Speech&#32;Detection.pdf)
 ```bibtex
 Meriç Demirörs, Ahmet Murat Özbayoğlu and Toygar Akgün, "Future-Proofing Multilingual Fake Speech Detection", 2025
 ```
