@@ -22,9 +22,9 @@ Three CNN architectures were trained:
 Each model was tested on individual feature sets and multi-form data combinations.
 
 ## Dataset
-* English datasets: ‘In-the-Wild,’ Fake or Real (FoR), WaveFake, and VCTK. 
-* Multilingual datasets: CommonLanguage and ELTOLSM (31 languages, 7 AI methods).  
-* Hypothesis datasets: HULTEL (28 languages, generated using a new AI model).
+* English datasets: [‘In-the-Wild'](https://deepfake-total.com/in_the_wild), [Fake or Real (FoR)](https://bil.eecs.yorku.ca/datasets/), [WaveFake](https://zenodo.org/records/5642694), and [VCTK](https://doi.org/10.7488/ds/2645.). 
+* Multilingual datasets: [CommonLanguage](https://zenodo.org/records/5036977) and [ELTOLSM](https://drive.google.com/drive/u/1/folders/1SVSou6rZkQYgmZhVCFCOj6bPEkrZrBvT) (31 languages, 7 AI methods).  
+* Hypothesis datasets: [HULTEL](https://drive.google.com/drive/u/6/folders/1EXysipBgs3tpQOTU7hL_3RPjB3ZqDkIW) (28 languages, generated using a new AI model).
 
 ## Conclusion
 * Model Performance: The best test accuracy scores achieved were:  
