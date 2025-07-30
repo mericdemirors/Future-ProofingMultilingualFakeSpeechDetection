@@ -1,4 +1,4 @@
-# Future-Proofing Multilingual Fake Speech Detection
+# [Future-Proofing Multilingual Fake Speech Detection](https://aircconline.com/csit/abstract/v15n13/csit151309.html)
 
 The rapid advancements in generative-AI models have significantly improved the realism of synthetic audio, making it increasingly difficult to distinguish between real and AI-generated speech. This research investigates how well machine learning models can detect AI-generated speech in unknown languages and from previously unseen generative models. 
 
